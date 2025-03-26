@@ -1,2 +1,4 @@
-a = int(input("Введите число"))
-a = int(input("Введите число"))
+def minus(a, b):
+    c = a - b
+    return c
+    
