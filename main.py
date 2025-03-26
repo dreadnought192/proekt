@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 def umn(a, b):
     c = a * b
@@ -7,3 +8,9 @@ def minus(a, b):
     c = a - b
     return c
  
+=======
+def plus(a, b):
+    c = a + b
+    print(c)
+    
+>>>>>>> origin/PLUS
